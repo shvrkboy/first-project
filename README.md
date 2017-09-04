@@ -1,1 +1,51 @@
-# first-project
+<!DOCTYPE html>
+  <head>
+    <title>
+    </title>
+  </head>
+    <body>
+    
+    <!-- This is a comment -->
+      
+      <h1>This is a header</h1>
+      
+      <h2>This is smaller header</h2>
+      
+      <h3>This is an even smaller header</h3>
+      
+      <h4>This is an even even smaller header</h4>
+      
+      <h5>This is an even even even smaller header</h5>
+      
+      <h6>This is the smallest header</h6>
+      
+      <p>This is a paragraph</p>
+      
+      <nav>
+        <ul>
+          <li>Navigation listing</li>
+          <li><a href="">Navigation button</a></li>
+        </ul>
+      </nav>
+    
+    <!-- SEMANTIC TAGS -->
+    
+      <header>
+    <!-- This is a header -->
+      </header>
+    
+      <section>
+    <!-- This is a section -->
+        <article>
+    <!-- This is an article in a section -->
+        </article>
+      </section>
+      
+      <footer>
+    <!-- This is a footer tag which usually goes in the bottom of a webpage. 
+         Include the company name and copyright tag which is '&copy' or '&#169'. -->
+      </footer>
+         
+    
+    </body>
+</html>
